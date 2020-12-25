@@ -1,0 +1,4 @@
+﻿  testserver.cpp
+c:\users\joker\source\repos\testserver\testserver\testserver.cpp(87): warning C4244: “return”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+c:\users\joker\source\repos\testserver\testserver\testserver.cpp(118): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  testserver.vcxproj -> C:\Users\joker\source\repos\testserver\Debug\testserver.exe

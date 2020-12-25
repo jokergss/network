@@ -1,0 +1,4 @@
+﻿  TCPClient.cpp
+c:\users\joker\source\repos\tcpclient\tcpclient\tcpclient.cpp(5): warning C4005: “_WINSOCK_DEPRECATED_NO_WARNINGS”: 宏重定义
+  c:\users\joker\source\repos\tcpclient\tcpclient\tcpclient.cpp: note: 参见“_WINSOCK_DEPRECATED_NO_WARNINGS”的前一个定义
+  TCPClient.vcxproj -> C:\Users\joker\source\repos\TCPClient\Debug\TCPClient.exe
