@@ -1,0 +1,15 @@
+﻿  routerDlg.cpp
+c:\users\joker\source\repos\router\router\routerdlg.h(59): warning C4091: “typedef ”: 没有声明变量时忽略“FrameHeader_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(72): warning C4091: “typedef ”: 没有声明变量时忽略“ARPFrame_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(85): warning C4091: “typedef ”: 没有声明变量时忽略“IPHeader_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(93): warning C4091: “typedef ”: 没有声明变量时忽略“ICMPHeader_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(98): warning C4091: “typedef ”: 没有声明变量时忽略“IPFrame_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(103): warning C4091: “typedef ”: 没有声明变量时忽略“ip_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(111): warning C4091: “typedef ”: 没有声明变量时忽略“IfInfo_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(119): warning C4091: “typedef ”: 没有声明变量时忽略“SendPacket_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(126): warning C4091: “typedef ”: 没有声明变量时忽略“RouteTable_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.h(131): warning C4091: “typedef ”: 没有声明变量时忽略“IP_MAC_t”的左侧
+c:\users\joker\source\repos\router\router\routerdlg.cpp(261): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+c:\users\joker\source\repos\router\router\routerdlg.cpp(373): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+c:\users\joker\source\repos\router\router\routerdlg.cpp(757): warning C4244: “=”: 从“ULONG”转换到“UCHAR”，可能丢失数据
+  router.vcxproj -> C:\Users\joker\source\repos\router\Debug\router.exe
