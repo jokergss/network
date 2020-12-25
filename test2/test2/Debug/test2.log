@@ -1,0 +1,5 @@
+﻿  test2.cpp
+c:\users\joker\source\repos\test2\test2\test2.cpp(20): warning C4091: “typedef ”: 没有声明变量时忽略“FrameHeader_t”的左侧
+c:\users\joker\source\repos\test2\test2\test2.cpp(32): warning C4091: “typedef ”: 没有声明变量时忽略“IPHeader_t”的左侧
+c:\users\joker\source\repos\test2\test2\test2.cpp(37): warning C4091: “typedef ”: 没有声明变量时忽略“Data_t”的左侧
+  test2.vcxproj -> C:\Users\joker\source\repos\test2\Debug\test2.exe

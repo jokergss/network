@@ -1,0 +1,4 @@
+﻿  test3.cpp
+c:\users\joker\source\repos\test3\test3\test3.cpp(20): warning C4091: “typedef ”: 没有声明变量时忽略“FrameHeader_t”的左侧
+c:\users\joker\source\repos\test3\test3\test3.cpp(32): warning C4091: “typedef ”: 没有声明变量时忽略“ARPFrame_t”的左侧
+  test3.vcxproj -> C:\Users\joker\source\repos\test3\Debug\test3.exe
